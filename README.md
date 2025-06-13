@@ -100,7 +100,7 @@ docker run -d -p 9000:9000 --name=portainer \
 ## 👤 Author
 
 **Kapil Ramjattan**  
-Cybersecurity Analyst | IT Technician | MS in Compliance Law (In Progress)  
+Cybersecurity Analyst | Data Analyst | Business Analyst | MS in Compliance Law (In Progress)  
 📫 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)
 
 ---
